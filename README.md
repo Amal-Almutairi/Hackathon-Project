@@ -37,22 +37,24 @@ Twitter is a online microblogging service that allows registered members to broa
  - EF Core
 ### Authors
 
-رنين الزعفراني 
+Raneen Alzafarani
 
-البندري القصيمي
+Albandry AlQaseemi
 
-بتول الغامدي 
+Taghreed alqahtani
 
-سميره الحصيني
+Samirah Alhusayni
 
-حنان حكمي
+Shahad Alshehri
 
-تغريد القحطاني
+Batool Alghamdi
 
-امل المطيري 
+Amal Almutairi
 
-فاطمة القحطاني
+Fatimah Alqhtany
 
-شهد الشهري
+Norah Almutairi
 
-نوره المطيري 
+Hanan Hakami
+
+Amal AlAgel 
